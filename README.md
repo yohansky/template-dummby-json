@@ -29,6 +29,11 @@ Demo from this repository:
   "profile": { "name": "typicode" }
 }
 ```
+### How to run
+1. install json-server (npm install json-server)
+2. buat db.json di vs (strukturnya disesuaikan
+3. $ json-server --watch db.json
+
 
 ## Reference
 
