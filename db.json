@@ -186,17 +186,6 @@
       "Thumbnail": "",
       "VideoUrl": "https://www.youtube.com/embed/2OpBWoHdX-0?si=LjL5xHEKqAXYlMbw",
       "UserId": 1
-    },
-    {
-      "ID": 20,
-      "CreatedAt": "2024-03-20T03:27:14.035394Z",
-      "UpdatedAt": "2024-03-20T03:27:14.035394Z",
-      "DeletedAt": null,
-      "Title": "",
-      "Ingredient": "",
-      "Thumbnail": "",
-      "VideoUrl": "",
-      "UserId": 1
     }
   ],
   "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
