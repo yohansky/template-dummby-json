@@ -1,191 +1,21 @@
 {
-  "resep": [
+  "users": [
     {
       "ID": 1,
-      "CreatedAt": "2024-03-18T18:16:29.604229Z",
-      "UpdatedAt": "2024-03-18T18:29:47.919837Z",
-      "DeletedAt": null,
-      "Title": "Sup Daging Jerapah",
-      "Ingredient": "Daun Pisang 1 Pohon",
-      "Thumbnail": "test",
-      "VideoUrl": "",
-      "UserId": 1
-    },
+      "Email": "",
+      "Password": "",
+      "Name": "",
+      "Phone": "",
+      "Jabatan": ""
+    }
+  ],
+  "pekerja": [
     {
-      "ID": 2,
-      "CreatedAt": "2024-03-19T07:52:46.487146Z",
-      "UpdatedAt": "2024-03-19T07:52:46.487146Z",
-      "DeletedAt": null,
-      "Title": "Popaye",
-      "Ingredient": "ganjos",
-      "Thumbnail": "test",
-      "VideoUrl": "",
-      "UserId": 1
-    },
-    {
-      "ID": 5,
-      "CreatedAt": "2024-03-19T08:57:44.508302Z",
-      "UpdatedAt": "2024-03-19T08:57:44.508302Z",
-      "DeletedAt": null,
-      "Title": "Sup Daging Curut",
-      "Ingredient": "Bayam 1 Kwintal",
-      "Thumbnail": "test",
-      "VideoUrl": "",
-      "UserId": 1
-    },
-    {
-      "ID": 6,
-      "CreatedAt": "2024-03-19T08:57:46.935169Z",
-      "UpdatedAt": "2024-03-19T08:57:46.935169Z",
-      "DeletedAt": null,
-      "Title": "Sup Daging Curut",
-      "Ingredient": "Bayam 1 Kwintal",
-      "Thumbnail": "test",
-      "VideoUrl": "",
-      "UserId": 1
-    },
-    {
-      "ID": 7,
-      "CreatedAt": "2024-03-19T08:57:48.287952Z",
-      "UpdatedAt": "2024-03-19T08:57:48.287952Z",
-      "DeletedAt": null,
-      "Title": "Sup Daging Curut",
-      "Ingredient": "Bayam 1 Kwintal",
-      "Thumbnail": "test",
-      "VideoUrl": "",
-      "UserId": 1
-    },
-    {
-      "ID": 8,
-      "CreatedAt": "2024-03-19T08:57:49.673353Z",
-      "UpdatedAt": "2024-03-19T08:57:49.673353Z",
-      "DeletedAt": null,
-      "Title": "Sup Daging Curut",
-      "Ingredient": "Bayam 1 Kwintal",
-      "Thumbnail": "test",
-      "VideoUrl": "",
-      "UserId": 1
-    },
-    {
-      "ID": 9,
-      "CreatedAt": "2024-03-19T08:57:50.959319Z",
-      "UpdatedAt": "2024-03-19T08:57:50.959319Z",
-      "DeletedAt": null,
-      "Title": "Sup Daging Curut",
-      "Ingredient": "Bayam 1 Kwintal",
-      "Thumbnail": "test",
-      "VideoUrl": "",
-      "UserId": 1
-    },
-    {
-      "ID": 10,
-      "CreatedAt": "2024-03-20T01:51:06.752426Z",
-      "UpdatedAt": "2024-03-20T01:51:06.752426Z",
-      "DeletedAt": null,
-      "Title": "Tongseng Ayam",
-      "Ingredient": "Dada ayam",
-      "Thumbnail": "",
-      "VideoUrl": "https://www.youtube.com/embed/3_YVKVYeCCY?si=TWOU1CM2ZMaMA2s4",
-      "UserId": 1
-    },
-    {
-      "ID": 11,
-      "CreatedAt": "2024-03-20T01:54:34.242284Z",
-      "UpdatedAt": "2024-03-20T01:54:34.242284Z",
-      "DeletedAt": null,
-      "Title": "Ikan Balado Kembung",
-      "Ingredient": "Ikan Kembung",
-      "Thumbnail": "",
-      "VideoUrl": "https://www.youtube.com/embed/2OpBWoHdX-0?si=LjL5xHEKqAXYlMbw",
-      "UserId": 1
-    },
-    {
-      "ID": 12,
-      "CreatedAt": "2024-03-20T01:58:35.322181Z",
-      "UpdatedAt": "2024-03-20T01:58:35.322181Z",
-      "DeletedAt": null,
-      "Title": "Ikan Balado Kembung",
-      "Ingredient": "Ikan balado",
-      "Thumbnail": "",
-      "VideoUrl": "\"https://www.youtube.com/embed/2OpBWoHdX-0?si=LjL5xHEKqAXYlMbw\"",
-      "UserId": 1
-    },
-    {
-      "ID": 13,
-      "CreatedAt": "2024-03-20T02:18:40.055098Z",
-      "UpdatedAt": "2024-03-20T02:18:40.055098Z",
-      "DeletedAt": null,
-      "Title": "Ikan Kembung Balado",
-      "Ingredient": "Ikan Kembung",
-      "Thumbnail": "",
-      "VideoUrl": "https://www.youtube.com/embed/2OpBWoHdX-0?si=LjL5xHEKqAXYlMbw",
-      "UserId": 1
-    },
-    {
-      "ID": 14,
-      "CreatedAt": "2024-03-20T02:19:17.184179Z",
-      "UpdatedAt": "2024-03-20T02:19:17.184179Z",
-      "DeletedAt": null,
-      "Title": "Balado Ikan Tongkol",
-      "Ingredient": "Ikan Tongkol\nSambal Balado",
-      "Thumbnail": "",
-      "VideoUrl": "https://www.youtube.com/embed/2OpBWoHdX-0?si=LjL5xHEKqAXYlMbw",
-      "UserId": 1
-    },
-    {
-      "ID": 15,
-      "CreatedAt": "2024-03-20T02:21:08.66712Z",
-      "UpdatedAt": "2024-03-20T02:21:08.66712Z",
-      "DeletedAt": null,
-      "Title": "Balado Ikan Tongkol",
-      "Ingredient": "Ikan Tongkol\nSambal Balado",
-      "Thumbnail": "",
-      "VideoUrl": "https://www.youtube.com/embed/2OpBWoHdX-0?si=LjL5xHEKqAXYlMbw",
-      "UserId": 1
-    },
-    {
-      "ID": 16,
-      "CreatedAt": "2024-03-20T02:21:36.058565Z",
-      "UpdatedAt": "2024-03-20T02:21:36.058565Z",
-      "DeletedAt": null,
-      "Title": "Ayam Bakar Goreng",
-      "Ingredient": "Dada Ayam\nKecap",
-      "Thumbnail": "",
-      "VideoUrl": "https://www.youtube.com/embed/2OpBWoHdX-0?si=LjL5xHEKqAXYlMbw",
-      "UserId": 1
-    },
-    {
-      "ID": 17,
-      "CreatedAt": "2024-03-20T02:22:29.882763Z",
-      "UpdatedAt": "2024-03-20T02:22:29.882763Z",
-      "DeletedAt": null,
-      "Title": "Testing",
-      "Ingredient": "Testing\nTesting",
-      "Thumbnail": "",
-      "VideoUrl": "https://www.youtube.com/embed/2OpBWoHdX-0?si=LjL5xHEKqAXYlMbw",
-      "UserId": 1
-    },
-    {
-      "ID": 18,
-      "CreatedAt": "2024-03-20T02:23:15.786992Z",
-      "UpdatedAt": "2024-03-20T02:23:15.786992Z",
-      "DeletedAt": null,
-      "Title": "Tahu Bakar",
-      "Ingredient": "Tahu\nKecap",
-      "Thumbnail": "",
-      "VideoUrl": "https://www.youtube.com/embed/2OpBWoHdX-0?si=LjL5xHEKqAXYlMbw",
-      "UserId": 1
-    },
-    {
-      "ID": 19,
-      "CreatedAt": "2024-03-20T02:45:20.771143Z",
-      "UpdatedAt": "2024-03-20T02:45:20.771143Z",
-      "DeletedAt": null,
-      "Title": "Tahu Balado",
-      "Ingredient": "Tahu\nSambal Balado",
-      "Thumbnail": "",
-      "VideoUrl": "https://www.youtube.com/embed/2OpBWoHdX-0?si=LjL5xHEKqAXYlMbw",
-      "UserId": 1
+      "ID": 1,
+      "Name": "Yohanes Hubert",
+      "Pekerjaan": "Web Developer",
+      "Alamat": "Depok, Jawa Barat",
+      "Status": "Freelancer"
     }
   ],
   "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
