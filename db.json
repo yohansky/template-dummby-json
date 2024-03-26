@@ -15,7 +15,9 @@
       "Name": "Yohanes Hubert",
       "Pekerjaan": "Web Developer",
       "Alamat": "Depok, Jawa Barat",
-      "Status": "Freelancer"
+      "Status": "Freelancer",
+      "Deskripsi": "lorem ipsum dolor sit amet, consectetur",
+      "Skills": ["PHP", "Java", "HTML"]
     }
   ],
   "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
