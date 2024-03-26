@@ -16,8 +16,26 @@
       "Pekerjaan": "Web Developer",
       "Alamat": "Depok, Jawa Barat",
       "Status": "Freelancer",
-      "Deskripsi": "lorem ipsum dolor sit amet, consectetur",
-      "Skills": ["PHP", "Java", "HTML"]
+      "Deskripsi": "lorem ipsum dolor sit amet, consectetur"
+    }
+  ],
+  "perekrut": [
+    {
+      "ID": 1,
+      "Nama_perusahaan": "Yohanes Hubert",
+      "Bidang": "Web Developer",
+      "Alamat": "Depok, Jawa Barat",
+      "Email": "Freelancer",
+      "Deskripsi": "lorem ipsum dolor sit amet, consectetur"
+    }
+  ],
+  "perekrut": [
+    {
+      "ID": 1,
+      "Nama_aplikasi": "Remainder app",
+      "link": "https://github.com/",
+      "tipe": "Mobile",
+      "foto": "Freelancer"
     }
   ],
   "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
