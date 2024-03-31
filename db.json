@@ -19,13 +19,13 @@
       "Deskripsi": "lorem ipsum dolor sit amet, consectetur"
     }
   ],
-  "perekrut": [
+  "perusahaan": [
     {
       "ID": 1,
-      "Nama_perusahaan": "Yohanes Hubert",
-      "Bidang": "Web Developer",
+      "Nama_perusahaan": "PT. Martabat Jaya Abadi",
+      "Bidang": "Finansial",
       "Alamat": "Depok, Jawa Barat",
-      "Email": "Freelancer",
+      "Email": "martabatjaya@email.com",
       "Deskripsi": "lorem ipsum dolor sit amet, consectetur"
     }
   ],
