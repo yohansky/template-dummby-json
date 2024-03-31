@@ -41,7 +41,17 @@
   "skill": [
     {
       "ID": 1,
-      "Nama_skill": "Remainder app",
+      "Nama_skill": "Java",
+      "usersId": 1
+    },
+    {
+      "ID": 2,
+      "Nama_skill": "PHP",
+      "usersId": 1
+    },
+    {
+      "ID": 3,
+      "Nama_skill": "HTML",
       "usersId": 1
     }
   ],
