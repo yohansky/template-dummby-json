@@ -46,9 +46,30 @@
     },
     {
       "ID": 3,
+      "Namaaplikasi": "Project management web",
+      "link": "https://github.com/",
+      "tipe": "Web",
+      "foto": "Freelancer"
+    },
+    {
+      "ID": 4,
       "Namaaplikasi": "Remainder app",
       "link": "https://github.com/",
       "tipe": "Mobile",
+      "foto": "Freelancer"
+    },
+    {
+      "ID": 5,
+      "Namaaplikasi": "Social Media app",
+      "link": "https://github.com/",
+      "tipe": "Mobile",
+      "foto": "Freelancer"
+    },
+    {
+      "ID": 6,
+      "Namaaplikasi": "Project management web",
+      "link": "https://github.com/",
+      "tipe": "Web",
       "foto": "Freelancer"
     }
   ],
