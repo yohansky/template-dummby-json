@@ -6,7 +6,7 @@
       "Password": "12345",
       "Name": "Yohanes",
       "Phone": "021",
-      "Jabatan": ""
+      "Role": "pekerja"
     }
   ],
   "pekerja": [
@@ -32,6 +32,20 @@
   "portofolio": [
     {
       "ID": 1,
+      "Namaaplikasi": "Remainder app",
+      "link": "https://github.com/",
+      "tipe": "Mobile",
+      "foto": "Freelancer"
+    },
+    {
+      "ID": 2,
+      "Namaaplikasi": "Social Media app",
+      "link": "https://github.com/",
+      "tipe": "Mobile",
+      "foto": "Freelancer"
+    },
+    {
+      "ID": 3,
       "Namaaplikasi": "Remainder app",
       "link": "https://github.com/",
       "tipe": "Mobile",
