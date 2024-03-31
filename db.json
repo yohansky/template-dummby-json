@@ -90,6 +90,29 @@
       "usersId": 1
     }
   ],
+  "pengalaman": [
+    {
+      "ID": 1,
+      "Nama": "Tokopedia",
+      "Posisi": "Engineer",
+      "Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eu imperdiet dolor, quis ultricies velit. Quisque sed arcu tempus, pulvinar augue eu, dignissim sapien. Nunc aliquam ultricies bibendum. In tristique cursus augue, a scelerisque lacus malesuada at.",
+      "usersId": 1
+    },
+    {
+      "ID": 2,
+      "Nama": "Shopee",
+      "Posisi": "Web Developer",
+      "Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eu imperdiet dolor, quis ultricies velit. Quisque sed arcu tempus, pulvinar augue eu, dignissim sapien. Nunc aliquam ultricies bibendum. In tristique cursus augue, a scelerisque lacus malesuada at.",
+      "usersId": 1
+    },
+    {
+      "ID": 3,
+      "Nama": "Blibli",
+      "Posisi": "Full Stack",
+      "Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eu imperdiet dolor, quis ultricies velit. Quisque sed arcu tempus, pulvinar augue eu, dignissim sapien. Nunc aliquam ultricies bibendum. In tristique cursus augue, a scelerisque lacus malesuada at.",
+      "usersId": 1
+    }
+  ],
   "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
   "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
   "profile": { "name": "typicode" }
