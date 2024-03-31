@@ -2,10 +2,10 @@
   "users": [
     {
       "ID": 1,
-      "Email": "",
-      "Password": "",
-      "Name": "",
-      "Phone": "",
+      "Email": "yohanes@email.com",
+      "Password": "12345",
+      "Name": "Yohanes",
+      "Phone": "021",
       "Jabatan": ""
     }
   ],
@@ -22,7 +22,7 @@
   "perusahaan": [
     {
       "ID": 1,
-      "Nama_perusahaan": "PT. Martabat Jaya Abadi",
+      "Namaperusahaan": "PT. Martabat Jaya Abadi",
       "Bidang": "Finansial",
       "Alamat": "Depok, Jawa Barat",
       "Email": "martabatjaya@email.com",
@@ -32,10 +32,17 @@
   "portofolio": [
     {
       "ID": 1,
-      "Nama_aplikasi": "Remainder app",
+      "Namaaplikasi": "Remainder app",
       "link": "https://github.com/",
       "tipe": "Mobile",
       "foto": "Freelancer"
+    }
+  ],
+  "skill": [
+    {
+      "ID": 1,
+      "Nama_skill": "Remainder app",
+      "usersId": 1
     }
   ],
   "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
