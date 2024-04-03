@@ -15,7 +15,15 @@
       "Name": "Yohanes Hubert",
       "Pekerjaan": "Web Developer",
       "Alamat": "Depok, Jawa Barat",
-      "Status": "Freelancer",
+      "Status": "Fulltime",
+      "Deskripsi": "lorem ipsum dolor sit amet, consectetur"
+    },
+    {
+      "ID": 2,
+      "Name": "Hubert Claudio",
+      "Pekerjaan": "Fullstack",
+      "Alamat": "Depok, Jawa Barat",
+      "Status": "Parttime",
       "Deskripsi": "lorem ipsum dolor sit amet, consectetur"
     }
   ],
